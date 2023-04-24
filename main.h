@@ -19,7 +19,8 @@ typedef struct fmt
 } fmt_t;
 
 int _putchar(char c);
-
+int _printf(const char *format, ...);
+int print_op(const char *format, fmt_t *print_arr, va_list list);
 
 
 #endif
