@@ -2,7 +2,7 @@
 
 /**
  * getstring_width - Stores leading spaces to a buffer for a width modifier.
- * @output: struct of the string
+ * @output: struct of the String
  * @flags: Flag
  * @wid: A width
  * @prec: A precision.
