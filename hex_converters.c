@@ -5,7 +5,7 @@ unsigned int link_x(container_s * output, va_list args,
 
 /**
  * link_x - Converts an unsigned int argument to hex using abc
- * @args:  argument to be converted
+ * @args:  argument to be Converted
  * @flags: Flag modifiers
  * @wid: A width modifier
  * @prec: A precision modifier
