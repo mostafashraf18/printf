@@ -132,7 +132,7 @@ int handleprec(va_list args, const char *modifier, char *index)
 }
 
 /**
- *  handle_specifiers - Matches specifier with function
+ *  handle_specifiers - Matches Specifier with function
  *  @specifier: pointer specifier
  *  Return: pointer to the function
  */
