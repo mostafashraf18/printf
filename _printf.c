@@ -62,7 +62,7 @@ int _printf_helper(const char *format, va_list args, container_s *output)
 
 }
 /**
- * _printf - print astring.
+ * _printf - Print astring.
  * @format: contains directives.
  * Return: The number of characters printed.
  */
