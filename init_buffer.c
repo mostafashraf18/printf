@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * init_buffer - Initializes a variable of struct type buffer_t.
+ * init_buffer - Initializes a variable of Struct type buffer_t.
  *
  * Return: A pointer to the initialized buffer_t.
  */
