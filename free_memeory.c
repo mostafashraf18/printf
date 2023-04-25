@@ -2,7 +2,7 @@
 
 /**
  * dealocate_container - Frees astruct
- * @dest: The struct
+ * @dest: The Struct
  */
 void dealocate_container(container_s *dest)
 {
