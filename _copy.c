@@ -5,7 +5,7 @@
  * @dest: A struct.
  * @src: A pointer to string to copy.
  * @n: The number of bytes to be copied.
- * Return: The number of bytes copied.
+ * Return: The Number of bytes copied.
  */
 unsigned int _copy(container_s *dest, const char *src, unsigned int n)
 {
