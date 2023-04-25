@@ -49,7 +49,7 @@ unsigned int link_sbase(container_s *output, long int num, char *base,
  * link_ubase - Converts an unsigned long to an inputted base &stores
  * @output: character array
  * @num: An unsigned long to be converted.
- * @base: A pointer to a string
+ * @base: A Pointer to a string
  * @flags: Flag modifiers
  * @wid: A width modifier
  * @prec: A precision modifier
