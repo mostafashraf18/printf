@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * getneg_width - add space for a '-' flag.
+ * getneg_width - add Space for a '-' flag.
  * @output: struct containing the string
  * @printed: stored to output
  *           for a given specifier.
